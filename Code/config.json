@@ -1,0 +1,9 @@
+{
+  "theme": "dark",
+  "window_geometry": "1358x1237+649+41",
+  "window_maximized": false,
+  "output_dir": "./output/",
+  "image_format": "png",
+  "video_format": "mp4",
+  "audio_format": "mp3"
+}

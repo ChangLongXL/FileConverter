@@ -1,0 +1,3 @@
+sv-ttk>=2.6.0
+Pillow>=10.0.0
+tkinter-unblur>=1.0.0
